@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karampreet singh</h1>
-<img align="center" width="800" height="300" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif">
+<img align="center" width="1000" height="300" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif">
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karampreet-singh&label=Profile%20views&color=0e75b6&style=flat" alt="karampreet-singh" /> </p>
